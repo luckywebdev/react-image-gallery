@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+.DS_Store
+
+.idea
+
+build/
+example/example.js
+example/example.js.map
+demo/
+styles/css/
